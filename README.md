@@ -1,17 +1,230 @@
 [**版权声明**](#版权声明)
 
-# Android 高级面试
+### 整理了Android十二个板块的内容，具体如下，已形成PDF版（V：maniu110）
 
-### ![面试](img/2020Android最新技术详解.png)
-#### 最新更文：
- - [我叫张东升，我是一名Android程序员，我有话要说](https://www.jianshu.com/p/ca36bf015eee)
+1.2022最新Android11位大厂面试专题，128道附答案
 
- - [Android开发第5年做了一个产品，被黄晓明，angelbabay，黄渤等一线明星转发后，我......](https://www.jianshu.com/p/bc9426831180)
+2.音视频大合集，从初中高到面试应有尽有
+
+3.Android车载应用大合集，从零开始一起学
+
+4.性能优化大合集，告别优化烦恼
+
+5.Framework大合集，从里到外分析的明明白白
+
+6.Flutter大合集，进阶Flutter高级工程师
+
+7.compose大合集，拥抱新技术
+
+8.Jetpack大合集，全家桶一次吃个够
+
+9.架构大合集，轻松应对工作需求
+
+10.Android基础篇大合集，根基稳固高楼平地起
+
+11.Flutter番外篇：Flutter面试+Flutter项目实战+Flutter电子书
+
+12.高级Android组件化强化实战
+
+从面试专题，到音视频，车载应用，性能优化，Flutter，compose,Framework,Jetpack,架构，贯穿到基础。十大模块应有尽有，所有内容都免费获取，免费获取，整理不易，关注一下吧ღ( ´･ᴗ･` )比心
+
+
+ [Android十大板块预习文档；告别查找繁琐](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247485016&idx=1&sn=d5b1938dbf9af2dfc34ab41f8dafa737&chksm=fc48b6d5cb3f3fc3540e11d58c3809217a53ebc4c710ecdc2e3c8940ee88b637f7448fbb2f7f#rd)
+ 
+[1.2022最新十一位大厂Android128道面试真题（附答案）](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247485016&idx=2&sn=f3784db159ad77b7e8f0be65359382c8&chksm=fc48b6d5cb3f3fc3e1d16c9c10ac7e70bf1a80438eb60f514f0a72197cd3ab150632c7adc63c#rd)
+
+ [2.音视频大合集，从初中高级到面试应有尽有](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247485016&idx=3&sn=d6172f2ab77a9e80a9ba4e73b2b05aab&chksm=fc48b6d5cb3f3fc30d26fbaf9789c10feb10545cc0f8e192796279d8bbadd2ab3ea31cbf24a2#rd)
+ 
+ [3.Android车载大合集，从零开始一起学](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247485016&idx=4&sn=7f824f28ccdcf4389a6e3f2ab34382bc&chksm=fc48b6d5cb3f3fc358a91562667025afa81a150f974ee2bf0af9c4e4f00cf7dce60a510f51e1#rd)
+    
+[4.性能优化大合集，告别优化烦恼](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247485016&idx=5&sn=5f375824f0c325b244b63085572097bf&chksm=fc48b6d5cb3f3fc32af38c72f6b947e75a9b15650da1cc7f3d5c83599cb3d9d56efb52ebd9fd#rd)
+
+[5.架构大合集，轻松应对工作需求](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247485016&idx=5&sn=5f375824f0c325b244b63085572097bf&chksm=fc48b6d5cb3f3fc32af38c72f6b947e75a9b15650da1cc7f3d5c83599cb3d9d56efb52ebd9fd#rd)
+
+ [6.Framework大合集，从里到外分析的明明白白](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247485016&idx=6&sn=3719a7750c92f9fe5cecb7ccd0016793&chksm=fc48b6d5cb3f3fc307b352f6e6604c981316dab0287c88869d11876f2c2dd557006cb14895db#rd)
+ 
+ [7.Flutter大合集，进阶Flutter高级工程师](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247485016&idx=7&sn=af4a2079ae118d18204c4abca3685695&chksm=fc48b6d5cb3f3fc3ee11e513a38d993f8f080b5f166eb0b518709c10d5843a75b2391d85c889#rd)
+ 
+ [8.compose大合集，拥抱新技术](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247485016&idx=8&sn=4cf3f822a2a1094f4990d4444aadd4ac&chksm=fc48b6d5cb3f3fc383e350fa85bbbcdc074264fd62eb5953bb06cc6ad462d2ddf2f4f6c7384e#rd)
+ 
+[9.Jetpack大合集，全家桶一次吃个够](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247485016&idx=8&sn=4cf3f822a2a1094f4990d4444aadd4ac&chksm=fc48b6d5cb3f3fc383e350fa85bbbcdc074264fd62eb5953bb06cc6ad462d2ddf2f4f6c7384e#rd)
+
+[10.Android基础篇大合集，根基稳固高楼平地起](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247485016&idx=1&sn=d5b1938dbf9af2dfc34ab41f8dafa737&chksm=fc48b6d5cb3f3fc3540e11d58c3809217a53ebc4c710ecdc2e3c8940ee88b637f7448fbb2f7f&token=447129594&lang=zh_CN#rd)
+
+[11.Flutter番外篇：Flutter面试+Flutter项目实战+Flutter电子书](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247485030&idx=1&sn=6a9e6fb04c97eb34f8e5c96d3678a765&chksm=fc48b6ebcb3f3ffdd3f3d940b7e4715a5a0b099cf150e3435c15ce4f1b80ba0dcc017fdf787a#rd)
+
+[12.高级Android组件化强化实战](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247485043&idx=1&sn=7f8751061160f003f43572212b99d1ee&chksm=fc48b6fecb3f3fe8d8e9dfb0aed9af8e46185daa1890be9a610d54ccf449124fb779ddd0489d#rd)
+
+
+
+如今Android开发不像前几年那么热门，但是高级人才依然紧缺，大家看着这句话是不是很熟悉，因为 其他行业的人才也紧缺，那么到了人工智能时代，人工智能时代的高级人才也同样会紧缺！似乎是高级人才的人在其他领域也是高级人才，而不是因为选择了热门才会一帆风顺。
+
+网上相关面试资料鱼龙混杂，要么一堆内容，要么内容质量太浅， 鉴于此我整理了如下Android开发高级工程师面试题以及答案帮助大家顺利进阶为高级工程师，目前我就职于某大厂Android高级工程师职位，在当下大环境下也想为Android工程师出一份力，通过我的技术经验整理了面试经常问的题，答案部分也都有，都是我认真看过并且觉得不错才整理出来，大家知道高级工程师不会像刚入门那样被问的问题一句话两句话就能表述清楚，所以我通过过滤好文章来帮助大家理解，进入正题：
+
+
+
+ # 汇总最全资料（包含音视频初-中-高；Flutter，kotlin;Compose;Framework;性能优化等）
+ - [（视频+文字）腾讯最全面Android高级学习笔记；快来学一波](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484481&idx=1&sn=75154dc779667152003bed21529f42cf&chksm=fc48b4cccb3f3dda5aa8e8b1004d9eb80dceefec9b05c04b3fc177e671bae324da222dd6590c#rd)
+
+
+
+
+
+### 一丶首先是你必须知道的技能
+
+#### 1.泛型丶注解
+
+*   [Android注解入门以及自定义注解](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484198&idx=1&sn=a88004032d1f14f6fc4835ae9aea861e&chksm=fc48b3abcb3f3abdccbea630a22a31720c4e0796b9458779a6adf7b154e88a2d2b74b298c3d3&token=1311774768&lang=zh_CN#rd)
+*   [注解作用](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484198&idx=1&sn=a88004032d1f14f6fc4835ae9aea861e&chksm=fc48b3abcb3f3abdccbea630a22a31720c4e0796b9458779a6adf7b154e88a2d2b74b298c3d3&token=1311774768&lang=zh_CN#rd)
+*   [APT实现原理](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484198&idx=1&sn=a88004032d1f14f6fc4835ae9aea861e&chksm=fc48b3abcb3f3abdccbea630a22a31720c4e0796b9458779a6adf7b154e88a2d2b74b298c3d3&token=1311774768&lang=zh_CN#rd)
+
+*   [泛型相关](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484198&idx=1&sn=a88004032d1f14f6fc4835ae9aea861e&chksm=fc48b3abcb3f3abdccbea630a22a31720c4e0796b9458779a6adf7b154e88a2d2b74b298c3d3&token=1311774768&lang=zh_CN#rd)
+
+*   [ButterKnife](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484198&idx=1&sn=a88004032d1f14f6fc4835ae9aea861e&chksm=fc48b3abcb3f3abdccbea630a22a31720c4e0796b9458779a6adf7b154e88a2d2b74b298c3d3&token=1311774768&lang=zh_CN#rd)
+
+#### 2.架构动态编辑技术原理
+
+*   [Android动态代理](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484198&idx=1&sn=a88004032d1f14f6fc4835ae9aea861e&chksm=fc48b3abcb3f3abdccbea630a22a31720c4e0796b9458779a6adf7b154e88a2d2b74b298c3d3&token=1311774768&lang=zh_CN#rd)
+*   [Android反射原理和使用](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484198&idx=1&sn=a88004032d1f14f6fc4835ae9aea861e&chksm=fc48b3abcb3f3abdccbea630a22a31720c4e0796b9458779a6adf7b154e88a2d2b74b298c3d3&token=1311774768&lang=zh_CN#rd)
+*   [Android AOP面向切面编辑实现方案](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484198&idx=1&sn=a88004032d1f14f6fc4835ae9aea861e&chksm=fc48b3abcb3f3abdccbea630a22a31720c4e0796b9458779a6adf7b154e88a2d2b74b298c3d3&token=1311774768&lang=zh_CN#rd)
+*   [JavaSSit使用总结](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484198&idx=1&sn=a88004032d1f14f6fc4835ae9aea861e&chksm=fc48b3abcb3f3abdccbea630a22a31720c4e0796b9458779a6adf7b154e88a2d2b74b298c3d3&token=1311774768&lang=zh_CN#rd)
+*   [APK编译](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484198&idx=1&sn=a88004032d1f14f6fc4835ae9aea861e&chksm=fc48b3abcb3f3abdccbea630a22a31720c4e0796b9458779a6adf7b154e88a2d2b74b298c3d3&token=1311774768&lang=zh_CN#rd)
+*   [AMS](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484198&idx=1&sn=a88004032d1f14f6fc4835ae9aea861e&chksm=fc48b3abcb3f3abdccbea630a22a31720c4e0796b9458779a6adf7b154e88a2d2b74b298c3d3&token=1311774768&lang=zh_CN#rd)
+
+#### 3.Android虚拟机指令
+
+*   [Android虚拟机相关](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484198&idx=1&sn=a88004032d1f14f6fc4835ae9aea861e&chksm=fc48b3abcb3f3abdccbea630a22a31720c4e0796b9458779a6adf7b154e88a2d2b74b298c3d3&token=1311774768&lang=zh_CN#rd)
+*   [面试必问的Android虚拟机，你掌握多少？](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484198&idx=1&sn=a88004032d1f14f6fc4835ae9aea861e&chksm=fc48b3abcb3f3abdccbea630a22a31720c4e0796b9458779a6adf7b154e88a2d2b74b298c3d3&token=1311774768&lang=zh_CN#rd)
+*   [热修复Tinker接入的示例分析](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484198&idx=1&sn=a88004032d1f14f6fc4835ae9aea861e&chksm=fc48b3abcb3f3abdccbea630a22a31720c4e0796b9458779a6adf7b154e88a2d2b74b298c3d3&token=1311774768&lang=zh_CN#rd)
+
+### 二丶优化技能必备
+
+#### 1.启动优化
+
+*   [抖音Android启动优化实践](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484198&idx=1&sn=a88004032d1f14f6fc4835ae9aea861e&chksm=fc48b3abcb3f3abdccbea630a22a31720c4e0796b9458779a6adf7b154e88a2d2b74b298c3d3&token=1311774768&lang=zh_CN#rd)
+
+*   [内存优化](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484198&idx=1&sn=a88004032d1f14f6fc4835ae9aea861e&chksm=fc48b3abcb3f3abdccbea630a22a31720c4e0796b9458779a6adf7b154e88a2d2b74b298c3d3&token=1311774768&lang=zh_CN#rd)
+
+*   [APP启动优化速度](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484198&idx=1&sn=a88004032d1f14f6fc4835ae9aea861e&chksm=fc48b3abcb3f3abdccbea630a22a31720c4e0796b9458779a6adf7b154e88a2d2b74b298c3d3&token=1311774768&lang=zh_CN#rd)
+
+*   [卡顿优化](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484198&idx=1&sn=a88004032d1f14f6fc4835ae9aea861e&chksm=fc48b3abcb3f3abdccbea630a22a31720c4e0796b9458779a6adf7b154e88a2d2b74b298c3d3&token=1311774768&lang=zh_CN#rd)
+
+*   [布局优化](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484198&idx=1&sn=a88004032d1f14f6fc4835ae9aea861e&chksm=fc48b3abcb3f3abdccbea630a22a31720c4e0796b9458779a6adf7b154e88a2d2b74b298c3d3&token=1311774768&lang=zh_CN#rd)
+
+*   [卡顿优化](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484198&idx=1&sn=a88004032d1f14f6fc4835ae9aea861e&chksm=fc48b3abcb3f3abdccbea630a22a31720c4e0796b9458779a6adf7b154e88a2d2b74b298c3d3&token=1311774768&lang=zh_CN#rd)
+
+*   [崩溃优化及处理](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484198&idx=1&sn=a88004032d1f14f6fc4835ae9aea861e&chksm=fc48b3abcb3f3abdccbea630a22a31720c4e0796b9458779a6adf7b154e88a2d2b74b298c3d3&token=1311774768&lang=zh_CN#rd)
+
+*   [Android应用启动全流程分析-源码深度剖析](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484198&idx=1&sn=a88004032d1f14f6fc4835ae9aea861e&chksm=fc48b3abcb3f3abdccbea630a22a31720c4e0796b9458779a6adf7b154e88a2d2b74b298c3d3&token=1311774768&lang=zh_CN#rd)
+
+### 三丶Framework相关内容
+
+*   [Framework通信之Binder-Handler-livedate](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484198&idx=1&sn=a88004032d1f14f6fc4835ae9aea861e&chksm=fc48b3abcb3f3abdccbea630a22a31720c4e0796b9458779a6adf7b154e88a2d2b74b298c3d3&token=1311774768&lang=zh_CN#rd)
+
+*   [Framework源码AMS-PMS-WMS解析](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484198&idx=1&sn=a88004032d1f14f6fc4835ae9aea861e&chksm=fc48b3abcb3f3abdccbea630a22a31720c4e0796b9458779a6adf7b154e88a2d2b74b298c3d3&token=1311774768&lang=zh_CN#rd)
+
+*   [Framework事件机制-Android事件处理的三种方法](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484198&idx=1&sn=a88004032d1f14f6fc4835ae9aea861e&chksm=fc48b3abcb3f3abdccbea630a22a31720c4e0796b9458779a6adf7b154e88a2d2b74b298c3d3&token=1311774768&lang=zh_CN#rd)
+
+*   [onInterceptTouchEvent拦截流程解析](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484198&idx=1&sn=a88004032d1f14f6fc4835ae9aea861e&chksm=fc48b3abcb3f3abdccbea630a22a31720c4e0796b9458779a6adf7b154e88a2d2b74b298c3d3&token=1311774768&lang=zh_CN#rd)
+
+### 四丶[Compose](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484198&idx=1&sn=a88004032d1f14f6fc4835ae9aea861e&chksm=fc48b3abcb3f3abdccbea630a22a31720c4e0796b9458779a6adf7b154e88a2d2b74b298c3d3&token=1311774768&lang=zh_CN#rd)
+
+这个电脑坏了拿去维修了 ，内容在里面，过几天送回来更新
+
+### 五丶音视频开发初-中-高
+
+*   [Android初级音视频开发1-7](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484198&idx=1&sn=a88004032d1f14f6fc4835ae9aea861e&chksm=fc48b3abcb3f3abdccbea630a22a31720c4e0796b9458779a6adf7b154e88a2d2b74b298c3d3&token=1311774768&lang=zh_CN#rd)
+
+*   [Android中级音视频开发8-19](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484198&idx=1&sn=a88004032d1f14f6fc4835ae9aea861e&chksm=fc48b3abcb3f3abdccbea630a22a31720c4e0796b9458779a6adf7b154e88a2d2b74b298c3d3&token=1311774768&lang=zh_CN#rd)
+
+*   [Android高级音视频开发20-51](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484198&idx=1&sn=a88004032d1f14f6fc4835ae9aea861e&chksm=fc48b3abcb3f3abdccbea630a22a31720c4e0796b9458779a6adf7b154e88a2d2b74b298c3d3&token=1311774768&lang=zh_CN#rd)
+
+### 六丶架构方面
+
+*   [线性表之ArrayList](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484198&idx=1&sn=a88004032d1f14f6fc4835ae9aea861e&chksm=fc48b3abcb3f3abdccbea630a22a31720c4e0796b9458779a6adf7b154e88a2d2b74b298c3d3&token=1311774768&lang=zh_CN#rd)
+
+*   [OKhttp网络架构](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484198&idx=1&sn=a88004032d1f14f6fc4835ae9aea861e&chksm=fc48b3abcb3f3abdccbea630a22a31720c4e0796b9458779a6adf7b154e88a2d2b74b298c3d3&token=1311774768&lang=zh_CN#rd)
+
+*   [Retrofit](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484198&idx=1&sn=a88004032d1f14f6fc4835ae9aea861e&chksm=fc48b3abcb3f3abdccbea630a22a31720c4e0796b9458779a6adf7b154e88a2d2b74b298c3d3&token=1311774768&lang=zh_CN#rd)
+
+*   [Dagger 2](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484198&idx=1&sn=a88004032d1f14f6fc4835ae9aea861e&chksm=fc48b3abcb3f3abdccbea630a22a31720c4e0796b9458779a6adf7b154e88a2d2b74b298c3d3&token=1311774768&lang=zh_CN#rd)
+
+*   [MVC-MVP-MVVM](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484198&idx=1&sn=a88004032d1f14f6fc4835ae9aea861e&chksm=fc48b3abcb3f3abdccbea630a22a31720c4e0796b9458779a6adf7b154e88a2d2b74b298c3d3&token=1311774768&lang=zh_CN#rd)
+
+*   [Jetpack Room](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484198&idx=1&sn=a88004032d1f14f6fc4835ae9aea861e&chksm=fc48b3abcb3f3abdccbea630a22a31720c4e0796b9458779a6adf7b154e88a2d2b74b298c3d3&token=1311774768&lang=zh_CN#rd)
+
+### 七丶[Android车载工程师](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484198&idx=1&sn=a88004032d1f14f6fc4835ae9aea861e&chksm=fc48b3abcb3f3abdccbea630a22a31720c4e0796b9458779a6adf7b154e88a2d2b74b298c3d3&token=1311774768&lang=zh_CN#rd)
+
+**建议直接去官网查看**
+
+### 八丶Flutter
+
+*   [Flutter环境搭建](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484198&idx=1&sn=a88004032d1f14f6fc4835ae9aea861e&chksm=fc48b3abcb3f3abdccbea630a22a31720c4e0796b9458779a6adf7b154e88a2d2b74b298c3d3&token=1311774768&lang=zh_CN#rd)
+
+*   [Dart语法-函数-类等](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484198&idx=1&sn=a88004032d1f14f6fc4835ae9aea861e&chksm=fc48b3abcb3f3abdccbea630a22a31720c4e0796b9458779a6adf7b154e88a2d2b74b298c3d3&token=1311774768&lang=zh_CN#rd)
+
+*   [Flutter基本布局](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484198&idx=1&sn=a88004032d1f14f6fc4835ae9aea861e&chksm=fc48b3abcb3f3abdccbea630a22a31720c4e0796b9458779a6adf7b154e88a2d2b74b298c3d3&token=1311774768&lang=zh_CN#rd)
+
+*   [Flutter基本组件1234](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484198&idx=1&sn=a88004032d1f14f6fc4835ae9aea861e&chksm=fc48b3abcb3f3abdccbea630a22a31720c4e0796b9458779a6adf7b154e88a2d2b74b298c3d3&token=1311774768&lang=zh_CN#rd)
+
+*   [Flutter列表-弹框-网络请求-动画-数据持久化-Row-JSON](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484198&idx=1&sn=a88004032d1f14f6fc4835ae9aea861e&chksm=fc48b3abcb3f3abdccbea630a22a31720c4e0796b9458779a6adf7b154e88a2d2b74b298c3d3&token=1311774768&lang=zh_CN#rd)
+
+*   [Flutter项目实战上-下-问题汇总](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484198&idx=1&sn=a88004032d1f14f6fc4835ae9aea861e&chksm=fc48b3abcb3f3abdccbea630a22a31720c4e0796b9458779a6adf7b154e88a2d2b74b298c3d3&token=1311774768&lang=zh_CN#rd)
+
+
+### [kotlin](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484198&idx=1&sn=a88004032d1f14f6fc4835ae9aea861e&chksm=fc48b3abcb3f3abdccbea630a22a31720c4e0796b9458779a6adf7b154e88a2d2b74b298c3d3&token=1311774768&lang=zh_CN#rd)
+
+整整经历了半个月才收集整理编辑好这些文章，在搬迁有点麻烦，大多数可以在
+- [公众号](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484198&idx=1&sn=a88004032d1f14f6fc4835ae9aea861e&chksm=fc48b3abcb3f3abdccbea630a22a31720c4e0796b9458779a6adf7b154e88a2d2b74b298c3d3&token=1311774768&lang=zh_CN#rd)
+
+更全面。
+
+### 2022年7月更新：
+ - [UI渲染优化与卡顿分析](https://www.processon.com/view/link/622f2afc0e3e7407da4884d1#map)
+ 
+
+ - [突然弹出王者荣耀停止运行，GC超时导致的后台应用崩溃问题分析](http://lihaizhou.top/2021/09/08/GC%E8%B6%85%E6%97%B6%E5%AF%BC%E8%87%B4%E7%9A%84%E5%90%8E%E5%8F%B0%E5%BA%94%E7%94%A8%E5%B4%A9%E6%BA%83%E9%97%AE%E9%A2%98%E5%88%86%E6%9E%90/)
+ 
+ - [AMS锁严重竞争导致的整机卡顿](http://lihaizhou.top/2021/09/18/AMS%E9%94%81%E4%B8%A5%E9%87%8D%E7%AB%9E%E4%BA%89%E5%AF%BC%E8%87%B4%E7%9A%84%E6%95%B4%E6%9C%BA%E5%8D%A1%E9%A1%BF/#/%E9%A2%91%E7%B9%81%E8%A7%A6%E5%8F%91%E5%8E%9F%E5%9B%A0)
+ 
+ - [对进程压缩消费Zram速度的优化](http://lihaizhou.top/2021/10/16/%E5%AF%B9%E8%BF%9B%E7%A8%8B%E5%8E%8B%E7%BC%A9%E6%B6%88%E8%B4%B9Zram%E9%80%9F%E5%BA%A6%E7%9A%84%E4%BC%98%E5%8C%96/)
+ 
+ - [对Android S ART GC的源码梳理](http://lihaizhou.top/2021/10/27/%E5%AF%B9Android-S-ART-GC%E7%9A%84%E6%BA%90%E7%A0%81%E6%A2%B3%E7%90%86/#/%E5%89%8D%E8%A8%80)
+ 
+ - [第三视角: 一个ART GC的优化故事](http://lihaizhou.top/2021/11/01/%E7%AC%AC%E4%B8%89%E8%A7%86%E8%A7%92-%E4%B8%80%E4%B8%AAART-GC%E7%9A%84%E4%BC%98%E5%8C%96%E6%95%85%E4%BA%8B/)
+ 
+ - [案例分析:打开应用后操作界面无响应(Systrace)](http://lihaizhou.top/2021/11/08/%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90-%E5%88%87%E6%8D%A2%E5%BA%94%E7%94%A8%E5%90%8E%E9%AB%98%E6%A6%82%E7%8E%87%E6%93%8D%E4%BD%9C%E6%97%A0%E5%93%8D%E5%BA%94-Systrace/)
+
+ - [Systrace角度: 拆解分析应用的启动流程](http://lihaizhou.top/2021/11/11/Systrace%E8%A7%92%E5%BA%A6-%E6%8B%86%E8%A7%A3%E5%88%86%E6%9E%90%E5%BA%94%E7%94%A8%E7%9A%84%E5%90%AF%E5%8A%A8%E6%B5%81%E7%A8%8B/)
+ 
+ - [优化实践:从系统层面优化应用启动速度](http://lihaizhou.top/2021/11/19/%E4%BC%98%E5%8C%96%E5%AE%9E%E8%B7%B5-%E4%BB%8E%E7%B3%BB%E7%BB%9F%E5%B1%82%E9%9D%A2%E4%BC%98%E5%8C%96%E5%BA%94%E7%94%A8%E5%90%AF%E5%8A%A8%E9%80%9F%E5%BA%A6/)
+ 
+ - [优化实践: 高刷下列表滑动出现卡顿掉帧](http://lihaizhou.top/2021/11/27/%E4%BC%98%E5%8C%96%E5%AE%9E%E8%B7%B5-%E9%AB%98%E5%88%B7%E4%B8%8B%E5%88%97%E8%A1%A8%E6%BB%91%E5%8A%A8%E5%87%BA%E7%8E%B0%E5%8D%A1%E9%A1%BF%E6%8E%89%E5%B8%A7/)
+
+ - [ANR原理分析及常见案例](http://lihaizhou.top/2022/02/10/ANR%E5%8E%9F%E7%90%86%E5%88%86%E6%9E%90%E5%8F%8A%E5%B8%B8%E8%A7%81%E6%A1%88%E4%BE%8B/)
+ 
+ - [网络 | 拥塞控制算法之BBR](http://lihaizhou.top/2022/03/01/%E7%BD%91%E7%BB%9C-%E6%8B%A5%E5%A1%9E%E6%8E%A7%E5%88%B6%E7%AE%97%E6%B3%95%E4%B9%8BBBR/)
+ 
+ - [ART 虚拟机｜Dex2oat 调优实践之路](http://lihaizhou.top/2022/03/20/ART-%E8%99%9A%E6%8B%9F%E6%9C%BA%EF%BD%9CDex2oat-%E8%B0%83%E4%BC%98%E5%AE%9E%E8%B7%B5%E4%B9%8B%E8%B7%AF/)
+ 
+ - [Android S Doze模式](http://lihaizhou.top/2022/04/19/Android-S-Doze%E6%A8%A1%E5%BC%8F/)
+ 
+
+#### 视频篇+文字：
+**1.面试必问&卡顿前奏 透过渲染看看卡顿，一秒明白卡顿原理（渲染篇）**
+  - [视频](https://www.bilibili.com/video/BV1CB4y1H7BV?spm_id_from=333.999.0.0&vd_source=7789239aa4aa0d282852cad0aba6b17a)
+  - [文字](https://zhuanlan.zhihu.com/p/538440760)
+
+**2.腾讯面试必问卡顿优化之卡顿原理全解析与如何快速定位到卡顿问题**
+  - [视频](https://www.bilibili.com/video/BV1Bf4y1Z7iM/?vd_source=7789239aa4aa0d282852cad0aba6b17a)
+  - [文字](https://zhuanlan.zhihu.com/p/538818801)
+
+ 
+
 
 #### 写给Android的一封信
-### 对于身边正在面试和面试中的人，加上我以往的面试经历整理了如下面试备考路线，和PDF版（有相应的视频教程在后面）
-### ![MS](img/MS.png)
-### ![PDF](img/PDF.png)
+### 对于身边正在面试和面试中的人，加上我以往的面试经历整理了如下面试备考路线，和PDF版（有相应的视频教程持续更新）
+
 
 最近半年，常常有人问我 “Android就业市场究竟怎么样，我还能不能坚持下去 ?”
 
@@ -23,9 +236,7 @@
 
 ​        其实如果你技术深度足够，大必不用为就业而忧愁。每个行业何尝不是这样，最开始的风口，到慢慢的成熟。Android初级在2019年的日子里风光不再， 靠会四大组件就能够获取到满意薪资的时代一去不复返。**经过一波一波的淘汰与洗牌，剩下的都是技术的金子。就像大浪褪去，裸泳的会慢慢上岸。**而真正坚持下来的一定会取得不错成绩。毕竟Android市场是如此之大。从Android高级的蓬勃的就业岗位需求来看，能坚信我们每一位Android开发者的梦想 。
 
-### ![2020面试专题](img/2020面试专题.png)
-### ![2020面试专题目录](img/2020面试专题目录.png)
-### ![23种设计模式](img/23种设计模式.png)
+
 
  接下来我们针对Android高级展开的完整面试题 
  ### 一丶kotlin(视频）
@@ -579,8 +790,8 @@
    - [4.1.2写视频](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png) 
 
    
-  ## 更多相关面试内容，视频文档，2020面最新面试专题PPT，高级进阶
-  ## (备注GitHub） VX：mm14525201314
+  ## 更多相关面试内容，视频文档，2022面最新面试专题PPT，高级进阶
+  ## (备注GitHub） VX：maniu110
   
   # 版权声明
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议</a>进行许可。
